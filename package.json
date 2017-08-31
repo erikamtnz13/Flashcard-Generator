@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "A basic flashcard application with a front and a back.",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikamtnz13/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flashcards",
+    "Cloze"
+  ],
+  "author": "EM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikamtnz13/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/erikamtnz13/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2"
+  }
+}
